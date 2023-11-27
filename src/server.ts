@@ -19,4 +19,5 @@ app.use("/v1", POIRouter);
 
 app.listen(port, () => {
     console.log(`Server is runnin at port ${port}`)
+    console.log(`Estamos verificando algumas regrs`)
 })
